@@ -1,0 +1,2 @@
+In this repository have an API for get words similarity based on the Word2Vec algorithm using Spacy and the model in Spanish for get this word with a percentage of similarity.
+the vocabulary is based in the modules  1 to 3 from LSB (language of sign bolivian)

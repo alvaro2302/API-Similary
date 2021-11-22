@@ -1,0 +1,30 @@
+- expression: "Atrás"
+  code: ["01"]
+  synonymous: []
+- expression: "Detrás"
+  code: ["02"]
+  synonymous: []
+- expression: "Dentro"
+  code: ["03"]
+  synonymous: []
+- expression: "Fuera"
+  code: ["04"]
+  synonymous: []
+- expression: "Delante"
+  code: ["05"]
+  synonymous: []
+- expression: "El lado"
+  code: ["06"]
+  synonymous: ["Al lado"]
+- expression: "Enfrente"
+  code: ["07"]
+  synonymous: []
+- expression: "Allá"
+  code: ["08"]
+  synonymous: []
+- expression: "Aquí"
+  code: ["09"]
+  synonymous: []
+- expression: "Allí"
+  code: ["10"]
+  synonymous: ["Ahí"]

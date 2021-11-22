@@ -1,0 +1,30 @@
+- expression: "La Paz"
+  code: ["01"]
+  synonymous: []
+- expression: "Santa Cruz"
+  code: ["02"]
+  synonymous: []
+- expression: "Cochabamba"
+  code: ["03"]
+  synonymous: []
+- expression: "Oruro"
+  code: ["04"]
+  synonymous: []
+- expression: "Tarija"
+  code: ["05"]
+  synonymous: []
+- expression: "Beni"
+  code: ["06"]
+  synonymous: []
+- expression: "Chuquisaca"
+  code: ["07"]
+  synonymous: []
+- expression: "Potosí"
+  code: ["08"]
+  synonymous: []
+- expression: "Pando"
+  code: ["09"]
+  synonymous: []
+- expression: "Litoral"
+  code: ["10"]
+  synonymous: []

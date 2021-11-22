@@ -1,0 +1,51 @@
+- expression: "Historia"
+  code: ["01"]
+  synonymous: []
+- expression: "Educación cívica"
+  code: ["02"]
+  synonymous: []
+- expression: "Inglés"
+  code: ["03"]
+  synonymous: []
+- expression: "Ciencias sociales"
+  code: ["04"]
+  synonymous: []
+- expression: "Francés"
+  code: ["05"]
+  synonymous: []
+- expression: "Ciencias de la naturaleza"
+  code: ["06"]
+  synonymous: []
+- expression: "Psicología"
+  code: ["07"]
+  synonymous: []
+- expression: "Literatura"
+  code: ["08"]
+  synonymous: []
+- expression: "Filosofía"
+  code: ["09"]
+  synonymous: []
+- expression: "Lenguaje y comunicación"
+  code: ["10"]
+  synonymous: []
+- expression: "Matemática"
+  code: ["11"]
+  synonymous: []
+- expression: "Biología"
+  code: ["12"]
+  synonymous: []
+- expression: "Física"
+  code: ["13"]
+  synonymous: []
+- expression: "Química"
+  code: ["14"]
+  synonymous: []
+- expression: "Educación física"
+  code: ["15"]
+  synonymous: []
+- expression: "Educación artística"
+  code: ["16"]
+  synonymous: []
+- expression: "Religión"
+  code: ["17"]
+  synonymous: []

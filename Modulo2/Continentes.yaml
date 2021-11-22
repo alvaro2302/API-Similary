@@ -1,0 +1,24 @@
+- expression: "Oceanía"
+  code: ["01"]
+  synonymous: []
+- expression: "Asia"
+  code: ["02"]
+  synonymous: []
+- expression: "América"
+  code: ["03"]
+  synonymous: []
+- expression: "Norteamérica"
+  code: ["04"]
+  synonymous: ["América del norte"]
+- expression: "Centroamérica"
+  code: ["05"]
+  synonymous: []
+- expression: "Sudamérica"
+  code: ["06"]
+  synonymous: ["América del sur"]
+- expression: "Europa"
+  code: ["07"]
+  synonymous: []
+- expression: "África"
+  code: ["08"]
+  synonymous: []

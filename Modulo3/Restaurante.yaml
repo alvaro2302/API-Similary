@@ -1,0 +1,63 @@
+- expression: "Ensalada"
+  code: ["01"]
+  synonymous: []
+- expression: "Sándwich"
+  code: ["02"]
+  synonymous: []
+- expression: "Saice"
+  code: ["03"]
+  synonymous: []
+- expression: "Tallarín"
+  code: ["04"]
+  synonymous: []
+- expression: "Hamburguesa"
+  code: ["05"]
+  synonymous: []
+- expression: "Platos típicos"
+  code: ["06"]
+  synonymous: []
+- expression: "Sopa de maní"
+  code: ["07"]
+  synonymous: []
+- expression: "Chairo"
+  code: ["08"]
+  synonymous: []
+- expression: "Pique macho"
+  code: ["09"]
+  synonymous: []
+- expression: "Pacumuto"
+  code: ["10"]
+  synonymous: []
+- expression: "Pescado"
+  code: ["11"]
+  synonymous: []
+- expression: "Lechón"
+  code: ["12"]
+  synonymous: []
+- expression: "Parrillada"
+  code: ["13"]
+  synonymous: []
+- expression: "Fricasé"
+  code: ["14"]
+  synonymous: []
+- expression: "Planchita"
+  code: ["15"]
+  synonymous: []
+- expression: "Chicharrón"
+  code: ["16"]
+  synonymous: []
+- expression: "Charque"
+  code: ["17"]
+  synonymous: []
+- expression: "Sajta de pollo"
+  code: ["18"]
+  synonymous: []
+- expression: "Silpancho"
+  code: ["19"]
+  synonymous: []
+- expression: "Papas fritas"
+  code: ["20"]
+  synonymous: []
+- expression: "Pollo al horno"
+  code: ["21"]
+  synonymous: []

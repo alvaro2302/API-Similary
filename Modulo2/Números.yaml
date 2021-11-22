@@ -1,0 +1,54 @@
+- expression: "Cincuenta y uno"
+  code: ["01"]
+  synonymous: ["51"]
+- expression: "Cincuenta y dos"
+  code: ["02"]
+  synonymous: ["52"]
+- expression: "Cincuenta y tres"
+  code: ["03"]
+  synonymous: ["53"]
+- expression: "Cincuenta y cuatro"
+  code: ["04"]
+  synonymous: ["54"]
+- expression: "Cincuenta y cinco"
+  code: ["05"]
+  synonymous: ["55"]
+- expression: "Cincuenta y seis"
+  code: ["06"]
+  synonymous: ["56"]
+- expression: "Cincuenta y siete"
+  code: ["07"]
+  synonymous: ["57"]
+- expression: "Cincuenta y ocho"
+  code: ["08"]
+  synonymous: ["58"]
+- expression: "Cincuenta y nueve"
+  code: ["09"]
+  synonymous: ["59"]
+- expression: "Sesenta"
+  code: ["10"]
+  synonymous: ["60"]
+- expression: "Setenta"
+  code: ["11"]
+  synonymous: ["70"]
+- expression: "Ochenta"
+  code: ["12"]
+  synonymous: ["80"]
+- expression: "Noventa"
+  code: ["13"]
+  synonymous: ["90"]
+- expression: "Cien"
+  code: ["14"]
+  synonymous: ["100"]
+- expression: "Doscientos"
+  code: ["15"]
+  synonymous: ["200"]
+- expression: "Trescientos"
+  code: ["16"]
+  synonymous: ["300"]
+- expression: "Cuatrocientos"
+  code: ["17"]
+  synonymous: ["400"]
+- expression: "Quinientos"
+  code: ["18"]
+  synonymous: ["500"]

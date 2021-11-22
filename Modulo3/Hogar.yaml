@@ -1,0 +1,66 @@
+- expression: "Bañarse"
+  code: ["01"]
+  synonymous: []
+- expression: "Cepillo dental"
+  code: ["02"]
+  synonymous: []
+- expression: "Lavar las manos"
+  code: ["03"]
+  synonymous: []
+- expression: "Lavar la cara"
+  code: ["04"]
+  synonymous: []
+- expression: "Desodorante"
+  code: ["05"]
+  synonymous: []
+- expression: "Jaboncillo"
+  code: ["06"]
+  synonymous: []
+- expression: "Lavadora"
+  code: ["07"]
+  synonymous: []
+- expression: "Plancha de ropa"
+  code: ["08"]
+  synonymous: []
+- expression: "Llave"
+  code: ["09"]
+  synonymous: []
+- expression: "Espejo"
+  code: ["10"]
+  synonymous: []
+- expression: "Escoba"
+  code: ["11"]
+  synonymous: []
+- expression: "Cepillo de cabello"
+  code: ["12"]
+  synonymous: []
+- expression: "Toalla de cara"
+  code: ["13"]
+  synonymous: []
+- expression: "Dentífrico"
+  code: ["14"]
+  synonymous: ["Pasta dental"]
+- expression: "Peine"
+  code: ["15"]
+  synonymous: []
+- expression: "Basurero"
+  code: ["16"]
+  synonymous: []
+- expression: "Lavar los platos"
+  code: ["17"]
+  synonymous: []
+- expression: "Lavar la ropa"
+  code: ["18"]
+  synonymous: []
+- expression: "Champú"
+  code: ["19"]
+  synonymous: []
+- expression: "Tender la cama"
+  code: ["20"]
+  synonymous: []
+- expression: "Papel higiénico"
+  code: ["21"]
+  synonymous: []
+- expression: "Pijama"
+  code: ["22"]
+  synonymous: []

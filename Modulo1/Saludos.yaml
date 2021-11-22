@@ -1,0 +1,58 @@
+- expression: "Hola"
+  code: ["01"]
+  synonymous: []
+- expression: "Chau"
+  code: ["02"]
+  synonymous: ["Chao"]
+- expression: "Permiso"
+  code: ["03"]
+  synonymous: []
+- expression: "Buenos días"
+  code: ["04"]
+  synonymous: []
+- expression: "Buenas tardes"
+  code: ["05"]
+  synonymous: []
+- expression: "Gracias"
+  code: ["06"]
+  synonymous: []
+- expression: "Buenas Noches"
+  code: ["07"]
+  synonymous: []
+- expression: "Por favor"
+  code: ["08"]
+  synonymous: []
+- expression: "Cómo estás"
+  code: ["09"]
+  synonymous: []
+- expression: "Estoy bien"
+  code: ["10"]
+  synonymous: []
+- expression: "Poder"
+  code: ["11"]
+  synonymous: []
+  type: "Verb"
+- expression: "No poder"
+  code: ["12"]
+  synonymous: []
+- expression: "Mal"
+  code: ["13"]
+  synonymous: []
+- expression: "Más o menos"
+  code: ["14"]
+  synonymous: []
+- expression: "Nombre"
+  code: ["15"]
+  synonymous: []
+- expression: "Sí"
+  code: ["16"]
+  synonymous: []
+- expression: "No"
+  code: ["17"]
+  synonymous: []
+- expression: "Lo siento"
+  code: ["18"]
+  synonymous: []
+- expression: "Te amo"
+  code: ["19"]
+  synonymous: []

@@ -1,0 +1,42 @@
+- expression: "Verde olivo"
+  code: ["01"]
+  synonymous: []
+- expression: "Crema"
+  code: ["02"]
+  synonymous: []
+- expression: "Verde fosforescente"
+  code: ["03"]
+  synonymous: []
+- expression: "Guindo"
+  code: ["04"]
+  synonymous: []
+- expression: "Verde claro"
+  code: ["05"]
+  synonymous: []
+- expression: "Plateado"
+  code: ["06"]
+  synonymous: []
+- expression: "Plomo"
+  code: ["07"]
+  synonymous: []
+- expression: "Dorado"
+  code: ["08"]
+  synonymous: []
+- expression: "Azul marino"
+  code: ["09"]
+  synonymous: []
+- expression: "Morado"
+  code: ["10"]
+  synonymous: []
+- expression: "Anaranjado fosforescente"
+  code: ["11"]
+  synonymous: []
+- expression: "Gris"
+  code: ["12"]
+  synonymous: []
+- expression: "Amarillo fosforescente"
+  code: ["13"]
+  synonymous: []
+- expression: "Celeste pastel"
+  code: ["14"]
+  synonymous: []

@@ -1,0 +1,21 @@
+- expression: "Adaptación curricular"
+  code: ["01"]
+  synonymous: []
+- expression: "Discapacidad visual"
+  code: ["02"]
+  synonymous: []
+- expression: "Discapacidad Auditiva"
+  code: ["03"]
+  synonymous: []
+- expression: "Sordo ceguera"
+  code: ["04"]
+  synonymous: []
+- expression: "Dificultades de aprendizajes"
+  code: ["05"]
+  synonymous: []
+- expression: "Inclusión"
+  code: ["06"]
+  synonymous: []
+- expression: "Integración"
+  code: ["07"]
+  synonymous: []

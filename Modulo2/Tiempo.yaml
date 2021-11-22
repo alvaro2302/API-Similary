@@ -1,0 +1,39 @@
+- expression: "Temprano"
+  code: ["01"]
+  synonymous: []
+- expression: "Tarde"
+  code: ["02"]
+  synonymous: []
+- expression: "Después"
+  code: ["03"]
+  synonymous: []
+- expression: "Luego"
+  code: ["04"]
+  synonymous: []
+- expression: "Presente"
+  code: ["05"]
+  synonymous: []
+- expression: "Pasado"
+  code: ["06"]
+  synonymous: []
+- expression: "Futuro"
+  code: ["07"]
+  synonymous: []
+- expression: "Próximo"
+  code: ["08"]
+  synonymous: []
+- expression: "Año pasado"
+  code: ["09"]
+  synonymous: []
+- expression: "Hasta luego"
+  code: ["10"]
+  synonymous: []
+- expression: "Hasta mañana"
+  code: ["11"]
+  synonymous: []
+- expression: "Hasta pronto"
+  code: ["12"]
+  synonymous: []
+- expression: "Todos los días"
+  code: ["13"]
+  synonymous: []

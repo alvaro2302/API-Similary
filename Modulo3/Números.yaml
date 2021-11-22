@@ -1,0 +1,43 @@
+- expression: "Quinientos"
+  code: ["01"]
+  synonymous: ["500"]
+  ignore: true
+- expression: "Quinientos uno"
+  code: ["02"]
+  synonymous: ["501"]
+- expression: "Quinientos diez"
+  code: ["03"]
+  synonymous: ["510"]
+- expression: "Seiscientos"
+  code: ["04"]
+  synonymous: ["600"]
+- expression: "Setecientos"
+  code: ["05"]
+  synonymous: ["700"]
+- expression: "Un mil"
+  code: ["06"]
+  synonymous: ["1000"]
+- expression: "Un mil uno"
+  code: ["07"]
+  synonymous: ["1001"]
+- expression: "Un mil diez"
+  code: ["08"]
+  synonymous: ["1010"]
+- expression: "Un mil cien"
+  code: ["09"]
+  synonymous: ["1100"]
+- expression: "Dos mil"
+  code: ["10"]
+  synonymous: ["2000"]
+- expression: "Cuatro mil"
+  code: ["11"]
+  synonymous: ["4000"]
+- expression: "Nueve mil"
+  code: ["12"]
+  synonymous: ["9000"]
+- expression: "Diez mil"
+  code: ["13"]
+  synonymous: ["10000"]
+- expression: "Cien mil"
+  code: ["14"]
+  synonymous: ["100000"]

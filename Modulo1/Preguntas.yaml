@@ -1,0 +1,27 @@
+- expression: "Quién"
+  code: ["01"]
+  synonymous: []
+- expression: "Dónde"
+  code: ["02"]
+  synonymous: []
+- expression: "Cómo"
+  code: ["03"]
+  synonymous: []
+- expression: "Por qué"
+  code: ["04"]
+  synonymous: []
+- expression: "Qué"
+  code: ["05"]
+  synonymous: []
+- expression: "Cuál"
+  code: ["06"]
+  synonymous: []
+- expression: "Para qué"
+  code: ["07"]
+  synonymous: []
+- expression: "Cuántos"
+  code: ["08"]
+  synonymous: []
+- expression: "Cuándo"
+  code: ["09"]
+  synonymous: []

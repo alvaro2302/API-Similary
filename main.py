@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask,request,jsonify
 app = Flask(__name__)
 import spacy
 import es_core_news_md
@@ -41,10 +41,12 @@ def getVerbfSentence(sentence):
     
     return dict(sorted(suitableVerbs.items(),key=lambda item: item[1],reverse=True))
 
-@app.route('/')
+@app.route('/', methods =['GET'])
 def getWorSimliar():
-    resultSimilar = getVerbfSentence("descansar")
-    print(resultSimilar)
+    data = request.json
+    wordSimilard = data["word"]
+    print(wordSimilard)
+    resultSimilar = getVerbfSentence(wordSimilard)
     keyResult = list(resultSimilar.keys())[0]
     valueResult = resultSimilar[keyResult]
     resultDict = {keyResult:valueResult}

@@ -1,10 +1,12 @@
-from flask import Flask
+from flask import Flask,request,jsonify
 app = Flask(__name__)
-
+import spacy
+import es_core_news_md
 import glob
 import yaml
-
-
+import json
+nlp = es_core_news_md.load()
+verbTomoTotal = {}
 def readModule(name):
   verbsWordsComplete = {}
   path = "./"+ name +"/*.yaml"
@@ -20,23 +22,34 @@ def readModule(name):
             print(exc)
   return verbsWordsComplete
 
-def readTotalModule():
-    verbTomoTotal = {}
-    verbsTomo1 = readModule("Modulo1")
-    verbsTomo2 = readModule("Modulo2")
-    verbsTomo3 = readModule("Modulo3")
 
-    verbTomoTotal = dict(verbTomoTotal, **verbsTomo1)
-    verbTomoTotal = dict(verbTomoTotal, **verbsTomo2)
-    verbTomoTotal = dict(verbTomoTotal, **verbsTomo3)
-    verbListTomoTotal = list(verbTomoTotal.keys())
-    print(verbTomoTotal)
-    print(verbListTomoTotal)
-    print(type(verbListTomoTotal))
-    print(len(verbListTomoTotal))
+verbsTomo1 = readModule("Modulo1")
+verbsTomo2 = readModule("Modulo2")
+verbsTomo3 = readModule("Modulo3")
 
-@app.route('/')
+verbTomoTotal = dict(verbTomoTotal, **verbsTomo1)
+verbTomoTotal = dict(verbTomoTotal, **verbsTomo2)
+verbTomoTotal = dict(verbTomoTotal, **verbsTomo3)
+verbListTomoTotal = list(verbTomoTotal.keys())
+
+
+def getVerbfSentence(sentence):
+  
+    sentenceWithNLP = nlp(sentence)
+    suitableVerbs = {verb:sentenceWithNLP.similarity(nlp(verb))  for verb in verbListTomoTotal }
+    
+    
+    return dict(sorted(suitableVerbs.items(),key=lambda item: item[1],reverse=True))
+
+@app.route('/', methods =['GET'])
 def getWorSimliar():
-    readTotalModule()
-    return "Hey i will terminated"
+    data = request.json
+    wordSimilard = data["word"]
+    print(wordSimilard)
+    resultSimilar = getVerbfSentence(wordSimilard)
+    keyResult = list(resultSimilar.keys())[0]
+    valueResult = resultSimilar[keyResult]
+    resultDict = {keyResult:valueResult}
+    jsonResult = json.dumps(resultDict)
+    return jsonResult
 
